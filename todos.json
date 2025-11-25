@@ -1,0 +1,7 @@
+[
+  {"id":"19f78dd0-964f-4880-b3f7-d5dad344c91c","text":"npm init","done":true},
+  {"id":"acb28e7a-c31a-4726-b286-b701f692d3e5","text":"npm i express","done":true},
+  {"id":"bbae283f-5270-43c7-8cea-3a9f03056c65","text":"npm i -D nodemon","done":true},
+  {"id":"1bfbef84-c3c7-4136-8eb6-eecae4c8ce1f","text":"npm i cors","done":false},
+  {"id":"2035d376-447c-452b-935d-3f90bd7e0f62","text":"npm i uuid","done":false}
+]
